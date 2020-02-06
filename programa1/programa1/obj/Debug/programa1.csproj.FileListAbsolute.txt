@@ -1,0 +1,6 @@
+C:\Users\alex_\Desktop\carpeta de progra xdxdxdx\programa1\programa1\bin\Debug\programa1.exe.config
+C:\Users\alex_\Desktop\carpeta de progra xdxdxdx\programa1\programa1\bin\Debug\programa1.exe
+C:\Users\alex_\Desktop\carpeta de progra xdxdxdx\programa1\programa1\bin\Debug\programa1.pdb
+C:\Users\alex_\Desktop\carpeta de progra xdxdxdx\programa1\programa1\obj\Debug\programa1.csprojResolveAssemblyReference.cache
+C:\Users\alex_\Desktop\carpeta de progra xdxdxdx\programa1\programa1\obj\Debug\programa1.exe
+C:\Users\alex_\Desktop\carpeta de progra xdxdxdx\programa1\programa1\obj\Debug\programa1.pdb
